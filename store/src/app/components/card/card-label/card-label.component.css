@@ -1,0 +1,17 @@
+.card-lab__container{
+    position: absolute;
+    bottom: 90px;
+    right: 0;
+}
+.card-lab__content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0d0d0da6;
+    color: white;
+    font-size: 12px;
+    font-family: 'segoe UI';
+    font-weight: bold;
+    height: 40px;
+    padding: 0px 50px;
+}
